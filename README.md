@@ -1,10 +1,13 @@
 # Simple Weather App
 A user-friendly weather application that allows you to search for any city and get real-time weather information, including temperature, humidity, and wind speed.
 
-# Technologies Used
+# 🛠️ Technologies Used
 Frontend: React, Vite<br>
 Styling: Tailwind CSS<br>
 Weather Data: OpenWeatherMap API
+
+# 🌍 Live Demo
+Check out the live version of the website here: https://weather-app-one-vert-40.vercel.app/ <br><br>
 
 # Installation
 
